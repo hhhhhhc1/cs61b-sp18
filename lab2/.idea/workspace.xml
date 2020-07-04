@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e68b2f19-a620-4209-be28-5f14f27f9b7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab1/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab1/LeapYear.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1eEDUfFitSuCIcKgwYq5gfK9Fb5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../library-sp18/javalib" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.DebugExercise3">
+    <configuration name="DebugExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebugExercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise3" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DebugExercise3" />
+        <item itemvalue="Application.DebugExercise2" />
+        <item itemvalue="Application.DebugExercise1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e68b2f19-a620-4209-be28-5f14f27f9b7a" name="Default Changelist" comment="" />
+      <created>1593877875356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593877875356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="241" key="FileChooserDialogImpl" timestamp="1593878504141">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="238" y="241" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593878504141" />
+    <state width="1189" height="320" key="GridCell.Tab.0.bottom" timestamp="1593890821344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821344" />
+    <state width="1189" height="320" key="GridCell.Tab.0.center" timestamp="1593890821344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821344" />
+    <state width="1189" height="320" key="GridCell.Tab.0.left" timestamp="1593890821344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821344" />
+    <state width="1189" height="320" key="GridCell.Tab.0.right" timestamp="1593890821344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821344" />
+    <state width="1189" height="320" key="GridCell.Tab.1.bottom" timestamp="1593890821345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821345" />
+    <state width="1189" height="320" key="GridCell.Tab.1.center" timestamp="1593890821345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821345" />
+    <state width="1189" height="320" key="GridCell.Tab.1.left" timestamp="1593890821344">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821344" />
+    <state width="1189" height="320" key="GridCell.Tab.1.right" timestamp="1593890821345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1189" height="320" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593890821345" />
+    <state x="12" y="74" key="SettingsEditor" timestamp="1593878507357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="12" y="74" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593878507357" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise2.java</url>
+          <line>8</line>
+          <properties class="DebugExercise2" method="max">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
